@@ -3,6 +3,5 @@ uji+pen+characters/
 words/
 *.zip
 *.tar.gz
-models/
 __pycache__/
 *.ipynb_checkpoints
